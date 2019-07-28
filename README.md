@@ -51,7 +51,7 @@ By using containers early in the development cycle you can remove a lot of the c
     It is recommended to set up a central virtualenv or condaenv for cookiecutter and any other "system" wide Python packages you may need.
 3. Run the cookiecutter docker data science template to scaffold your new project:
     ``` bash
-    $ cookiecutter https://github.com/manifoldai/docker-cookiecutter-data-science.git
+    $ cookiecutter https://github.com/Fabien-DS/docker-cookiecutter-data-science.git
     ```
 4. Answer all of the cookiecutter prompts for project name, description, license, etc.
 5. Run the start script from the level of your new project directory:
